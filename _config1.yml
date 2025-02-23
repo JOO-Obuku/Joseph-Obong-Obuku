@@ -1,5 +1,8 @@
-titles: Show Talebi
+title: [The title of your site]
 logo: /assets/img/headshot_circle.png
-description: text below image
+description: [A short description of your site's purpose]
 show_downloads: true
 theme: jekyll=theme=minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
