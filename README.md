@@ -1,8 +1,8 @@
-# DATA ANALYST
+# HR dashboard
 
 This HR Dashboard provides a comprehensive overview of key workforce metrics to support data-driven decision-making in human resource management. It visualizes employee distribution, performance, and logistics data effectively through charts and KPIs.
 
-Key Highlights:
+#Key Highlights:
 Total Employees: 1,470
 Gender Distribution:
 Male: 882 (60%)
@@ -23,6 +23,6 @@ Very Close: 940 (63.95%)
 Close: 301 (20.48%)
 Very Far: 229 (15.58%)
 
-Purpose:
+#Purpose:
 The dashboard allows HR professionals to monitor workforce structure, identify potential attrition, prepare for promotions, and assess geographic proximity to the workplace, helping optimize resource planning and employee engagement strategies.
 
